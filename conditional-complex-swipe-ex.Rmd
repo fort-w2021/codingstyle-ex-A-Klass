@@ -27,6 +27,7 @@ swipe_right <- function(swiper, profile) {
               return(TRUE)
             } else {
               return(FALSE)
+              
             }
           }
         } else {
